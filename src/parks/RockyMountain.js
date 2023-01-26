@@ -1,6 +1,6 @@
-const trees = "Aspen and Pine";
+export const trees = "Aspen and Pine";
 
-function wildlife() {
+export function wildlife() {
   console.log("Elk, Bighorn Sheep, Moose");
 }
 
